@@ -2,7 +2,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./generateMarkdown");
-const path = require("path");
+
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -62,7 +62,7 @@ const questions = [
 function init() {
   inquirer.prompt(questions).then((response) => {
     fs.writeFile(
-      path.join("dist", "README.md"),
+      "README.md",
       generateMarkdown(response),
       (err) =>
         err ? console.log(err) : console.log("README successfully created!")
