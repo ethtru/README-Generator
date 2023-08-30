@@ -1,4 +1,4 @@
-# fsdj
+# README Generator
 
 ## Table of Contents
 * [Description](#Description)
@@ -12,25 +12,25 @@
 
 
 ## Description
-sfddlkj
+A node application that generates a README file.
 
 ## Installation
-sflkj
+Simply open in terminal.
 
 ## Usage Information
-sfdljk
+Follow prompts and enter text.
 
 ## Contribution Guidelines
-sfdlj
+Contribute at will!
 
 ## Testing
-sfdlj
+Test in the the terminal.
 
 ## License
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Github
-sfdlj
+ethtru
 
 ## Email
-sdflj
+ethtru
